@@ -6,7 +6,7 @@
 The objective of this tutorial is to learn how to incorporate Javascript into our Website. 
 
 
-![Finished Website](C:\Users\hp\Google Drive\Workspace\Javascript Workspace\Web-Development-Course\Module5\Drum Kit Starting Files\Layout.png)
+![Finished Website](https://github.com/mustafabawany/Drum-Kit/blob/main/images/Layout.PNG)
 
 
 ## Tools Used
